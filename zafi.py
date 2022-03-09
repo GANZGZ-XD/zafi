@@ -1,7 +1,7 @@
  
  ​#!/usr/bin/python2 
  ​# coding=utf-8 
- ​# coding by Romi Afrizal 
+ ​# coding by GANZ-XD
  ​# Note : jangan di ubah lagi! nanti error, script udah enak 
  ​# Open source code team | ngotak dikit cok jangan jual di perjual belikan  
   
@@ -16,7 +16,7 @@
  ​ - fanspage    : facebook.com/100022086172556 
  ​ - whatsap     : +6282371648186 
  ​ - github      : github.com/Mark-Zuck 
- ​ - script name : ZAFI (Zona Akun Facebook Indonesia) 
+ ​ - script name : ZAFI (Zona Akun Facebook mark zukerberg) 
  ​ - version     : 1.1 
  ​  
  ​%s"""​%​(​Hj​,​Mt​)) 
